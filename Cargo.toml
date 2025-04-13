@@ -1,0 +1,13 @@
+[package]
+name = "excov"
+version = "1.0.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+categories = ["algorithms"]
+repository = "https://github.com/earhart/excov"
+description = "A solver for exact cover problems"
+
+[badges]
+maintenance = { status = "as-is" }
+
+[dependencies]
